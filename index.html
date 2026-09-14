@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sewa Hotel Indonesia</title>
+  <!-- Tailwind CSS via CDN untuk styling modern -->
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 font-sans">
+
+  <!-- Header / Navbar -->
+  <header class="bg-blue-600 text-white p-4 shadow-md">
+    <div class="container mx-auto flex justify-between items-center">
+      <h1 class="text-2xl font-bold">NusantaraStay 🏨</h1>
+      <span class="text-sm">Sewa Hotel se-Indonesia</span>
+    </div>
+  </header>
+
+  <!-- Section Hero & Search -->
+  <section class="bg-blue-500 text-white py-12 px-4 text-center">
+    <h2 class="text-3xl font-extrabold mb-4">Temukan Penginapan Terbaik di Indonesia</h2>
+    <div class="max-w-md mx-auto flex gap-2">
+      <input type="text" id="searchInput" placeholder="Cari kota (misal: Bali, Bandung)..." 
+             class="w-full p-3 rounded-lg text-gray-800 focus:outline-none shadow">
+    </div>
+  </section>
+
+  <!-- Grid Daftar Hotel -->
+  <main class="container mx-auto py-8 px-4">
+    <h3 class="text-xl font-bold mb-6 text-gray-800">Daftar Hotel Tersedia</h3>
+    <div id="hotelList" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Card Hotel akan dimuat otomatis via JavaScript -->
+    </div>
+  </main>
+
+  <!-- Connect to app.js -->
+  <script src="app.js"></script>
+</body>
+</html>
