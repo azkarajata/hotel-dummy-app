@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nama": "Nusantara Grand Hotel",
+    "kota": "Jakarta",
+    "harga": 850000,
+    "rating": 4.5,
+    "gambar": "https://picsum.photos/seed/jakarta-hotel/800/600",
+    "deskripsi": "Hotel modern di pusat Jakarta dengan akses mudah ke pusat bisnis dan area perbelanjaan."
+  },
+  {
+    "id": 2,
+    "nama": "Bali Sunset Resort",
+    "kota": "Bali",
+    "harga": 1250000,
+    "rating": 4.7,
+    "gambar": "https://picsum.photos/seed/bali-hotel/800/600",
+    "deskripsi": "Resor nyaman bernuansa tropis dengan suasana santai dan fasilitas lengkap."
+  },
+  {
+    "id": 3,
+    "nama": "Dago Heritage Hotel",
+    "kota": "Bandung",
+    "harga": 700000,
+    "rating": 4.4,
+    "gambar": "https://picsum.photos/seed/bandung-hotel/800/600",
+    "deskripsi": "Hotel bergaya klasik di kawasan Dago, cocok untuk liburan keluarga maupun perjalanan bisnis."
+  },
+  {
+    "id": 4,
+    "nama": "Malioboro Stay",
+    "kota": "Yogyakarta",
+    "harga": 550000,
+    "rating": 4.3,
+    "gambar": "https://picsum.photos/seed/yogyakarta-hotel/800/600",
+    "deskripsi": "Akomodasi nyaman dekat kawasan Malioboro dengan akses mudah ke berbagai destinasi wisata."
+  },
+  {
+    "id": 5,
+    "nama": "Surabaya City Hotel",
+    "kota": "Surabaya",
+    "harga": 650000,
+    "rating": 4.2,
+    "gambar": "https://picsum.photos/seed/surabaya-hotel/800/600",
+    "deskripsi": "Hotel praktis di area perkotaan Surabaya dengan fasilitas modern dan pelayanan ramah."
+  },
+  {
+    "id": 6,
+    "nama": "Medan Heritage Inn",
+    "kota": "Medan",
+    "harga": 500000,
+    "rating": 4.1,
+    "gambar": "https://picsum.photos/seed/medan-hotel/800/600",
+    "deskripsi": "Hotel nyaman untuk menjelajahi Medan, dengan lokasi strategis dan fasilitas yang memadai."
+  }
+]
